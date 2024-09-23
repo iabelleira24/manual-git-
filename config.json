@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 '{ "apiKey": "12345", "secret": "abcdef" }' 
+=======
+{
+  "apiKey": "12345",
+  "secret": "abcdef"
+}
+>>>>>>> 8a205936b3244db798b37f4462500af87711ff33
