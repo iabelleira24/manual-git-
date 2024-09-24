@@ -1,5 +1,4 @@
-Primer cambio: Agregando la primera línea de cambios.
-Segundo cambio: Agregando la segunda línea de cambios.
-Tercer cambio: Agregando la tercera línea de cambios.
+
+Segundo cambio: Agregando la segunda línea de 
 
  
